@@ -246,7 +246,7 @@ NS_ASSUME_NONNULL_BEGIN
  
  @param cls  The value instance's class in dictionary.
  @param json  A json dictionary of `NSDictionary`, `NSString` or `NSData`.
-              Example: {"user1":{"name","Mary"}, "user2": {name:"Joe"}}
+              Example: {"user1":{"name":"Mary"}, "user2": {name:"Joe"}}
  
  @return A array, or nil if an error occurs.
  */
